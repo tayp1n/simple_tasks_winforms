@@ -1,0 +1,10 @@
+D:\Visual Studio Projects\WindowsFormsHomework\WindowsFormsHomework\obj\Debug\WindowsFormsHomework.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\WindowsFormsHomework\WindowsFormsHomework\obj\Debug\WindowsFormsHomework.Form1.resources
+D:\Visual Studio Projects\WindowsFormsHomework\WindowsFormsHomework\obj\Debug\WindowsFormsHomework.Properties.Resources.resources
+D:\Visual Studio Projects\WindowsFormsHomework\WindowsFormsHomework\obj\Debug\WindowsFormsHomework.csproj.GenerateResource.cache
+D:\Visual Studio Projects\WindowsFormsHomework\WindowsFormsHomework\obj\Debug\WindowsFormsHomework.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\WindowsFormsHomework\WindowsFormsHomework\bin\Debug\WindowsFormsHomework.exe.config
+D:\Visual Studio Projects\WindowsFormsHomework\WindowsFormsHomework\bin\Debug\WindowsFormsHomework.exe
+D:\Visual Studio Projects\WindowsFormsHomework\WindowsFormsHomework\bin\Debug\WindowsFormsHomework.pdb
+D:\Visual Studio Projects\WindowsFormsHomework\WindowsFormsHomework\obj\Debug\WindowsFormsHomework.exe
+D:\Visual Studio Projects\WindowsFormsHomework\WindowsFormsHomework\obj\Debug\WindowsFormsHomework.pdb

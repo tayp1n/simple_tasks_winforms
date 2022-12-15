@@ -1,0 +1,20 @@
+D:\Visual Studio Projects\WindowsFormsHomework\WindowsFormsHomework\obj\Release\WindowsFormsHomework.Form1.resources
+D:\Visual Studio Projects\WindowsFormsHomework\WindowsFormsHomework\obj\Release\WindowsFormsHomework.Properties.Resources.resources
+D:\Visual Studio Projects\WindowsFormsHomework\WindowsFormsHomework\obj\Release\WindowsFormsHomework.csproj.GenerateResource.cache
+D:\Visual Studio Projects\WindowsFormsHomework\WindowsFormsHomework\obj\Release\WindowsFormsHomework.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\WindowsFormsHomework\WindowsFormsHomework\bin\Release\WindowsFormsHomework.exe.config
+D:\Visual Studio Projects\WindowsFormsHomework\WindowsFormsHomework\bin\Release\WindowsFormsHomework.exe
+D:\Visual Studio Projects\WindowsFormsHomework\WindowsFormsHomework\bin\Release\WindowsFormsHomework.pdb
+D:\Visual Studio Projects\WindowsFormsHomework\WindowsFormsHomework\obj\Release\WindowsFormsHomework.exe
+D:\Visual Studio Projects\WindowsFormsHomework\WindowsFormsHomework\obj\Release\WindowsFormsHomework.pdb
+D:\Visual Studio Projects\WindowsFormsHomework\WindowsFormsHomework\obj\Release\WindowsFormsHomework.csproj.AssemblyReference.cache
+C:\Users\Nazar\Desktop\WindowsFormsHomework\WindowsFormsHomework\bin\Release\WindowsFormsHomework.exe.config
+C:\Users\Nazar\Desktop\WindowsFormsHomework\WindowsFormsHomework\bin\Release\WindowsFormsHomework.exe
+C:\Users\Nazar\Desktop\WindowsFormsHomework\WindowsFormsHomework\bin\Release\WindowsFormsHomework.pdb
+C:\Users\Nazar\Desktop\WindowsFormsHomework\WindowsFormsHomework\obj\Release\WindowsFormsHomework.csproj.AssemblyReference.cache
+C:\Users\Nazar\Desktop\WindowsFormsHomework\WindowsFormsHomework\obj\Release\WindowsFormsHomework.Form1.resources
+C:\Users\Nazar\Desktop\WindowsFormsHomework\WindowsFormsHomework\obj\Release\WindowsFormsHomework.Properties.Resources.resources
+C:\Users\Nazar\Desktop\WindowsFormsHomework\WindowsFormsHomework\obj\Release\WindowsFormsHomework.csproj.GenerateResource.cache
+C:\Users\Nazar\Desktop\WindowsFormsHomework\WindowsFormsHomework\obj\Release\WindowsFormsHomework.csproj.CoreCompileInputs.cache
+C:\Users\Nazar\Desktop\WindowsFormsHomework\WindowsFormsHomework\obj\Release\WindowsFormsHomework.exe
+C:\Users\Nazar\Desktop\WindowsFormsHomework\WindowsFormsHomework\obj\Release\WindowsFormsHomework.pdb
